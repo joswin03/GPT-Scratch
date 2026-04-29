@@ -1,0 +1,14 @@
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+# Secrets
+.env
+.env.local
+*.log
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
